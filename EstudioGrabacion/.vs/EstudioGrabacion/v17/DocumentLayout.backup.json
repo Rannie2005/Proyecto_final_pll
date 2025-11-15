@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\controllers\\ingenieroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:controllers\\ingenieroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\data\\migrations\\20251115031018_creartablasestudiograbacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:data\\migrations\\20251115031018_creartablasestudiograbacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\models\\ingeniero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:models\\ingeniero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|c:\\users\\ranni\\source\\repos\\estudiograbacion\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF471F8-D08F-47AB-A9B6-48ECC95775F2}|EstudioGrabacion.csproj|solutionrelative:models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaquetesController.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\PaquetesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaquetesController.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\PaquetesController.cs",
+              "RelativeToolTip": "Controllers\\PaquetesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:23:06.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SesionesController.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\SesionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SesionesController.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\SesionesController.cs",
+              "RelativeToolTip": "Controllers\\SesionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:22:12.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:20:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngenierosController.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\IngenierosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IngenierosController.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Controllers\\IngenierosController.cs",
+              "RelativeToolTip": "Controllers\\IngenierosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:18:42.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251115031018_CrearTablasEstudioGrabacion.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Data\\Migrations\\20251115031018_CrearTablasEstudioGrabacion.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251115031018_CrearTablasEstudioGrabacion.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Data\\Migrations\\20251115031018_CrearTablasEstudioGrabacion.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251115031018_CrearTablasEstudioGrabacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:10:20.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:54:45.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:24:42.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Paquete.cs",
+              "RelativeDocumentMoniker": "Models\\Paquete.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Paquete.cs",
+              "RelativeToolTip": "Models\\Paquete.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:22:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Sesion.cs",
+              "RelativeDocumentMoniker": "Models\\Sesion.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Sesion.cs",
+              "RelativeToolTip": "Models\\Sesion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:17:33.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Servicio.cs",
+              "RelativeToolTip": "Models\\Servicio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:15:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ingeniero.cs",
+              "DocumentMoniker": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Ingeniero.cs",
+              "RelativeDocumentMoniker": "Models\\Ingeniero.cs",
+              "ToolTip": "C:\\Users\\ranni\\source\\repos\\EstudioGrabacion\\Models\\Ingeniero.cs",
+              "RelativeToolTip": "Models\\Ingeniero.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:13:58.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
